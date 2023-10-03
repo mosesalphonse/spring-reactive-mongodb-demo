@@ -3,7 +3,7 @@
 Sample Reactive API for CRUD operation in a Reactive style to connect to MongoDB using Spring Boot
 
 ## POC:
-* Reactive API using Mono and Flex
+* Reactive API for non-blocking IO
 * CRUD API for Mong DB
 
 ## Prerequisite
