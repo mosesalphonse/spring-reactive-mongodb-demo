@@ -98,6 +98,9 @@ db.{collection}.insertMany({payload})
 
 db.{collection}.drop
 
+db.terminal.insertOne({"code" : "CA001", "name" : "Asia", "enabled":true})
+
+
 ```
 
 
